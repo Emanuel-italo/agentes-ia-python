@@ -1,9 +1,0 @@
-agentes_ia
-agents
-core
-domain
-interfaces
-prompts
-rag
-services
-tools
