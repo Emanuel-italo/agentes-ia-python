@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/agentes_ia/__init__.py
-src/agentes_ia_python.egg-info/PKG-INFO
-src/agentes_ia_python.egg-info/SOURCES.txt
-src/agentes_ia_python.egg-info/dependency_links.txt
-src/agentes_ia_python.egg-info/requires.txt
-src/agentes_ia_python.egg-info/top_level.txt
